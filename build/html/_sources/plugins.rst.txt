@@ -20,10 +20,34 @@ plugins.CleanCache module
     :undoc-members:
     :show-inheritance:
 
+plugins.Echo module
+-------------------
+
+.. automodule:: plugins.Echo
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 plugins.Email module
 --------------------
 
 .. automodule:: plugins.Email
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+plugins.Geek module
+-------------------
+
+.. automodule:: plugins.Geek
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+plugins.LocalPlayer module
+--------------------------
+
+.. automodule:: plugins.LocalPlayer
     :members:
     :undoc-members:
     :show-inheritance:
