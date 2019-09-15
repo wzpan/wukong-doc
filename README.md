@@ -12,6 +12,5 @@ git clone https://github.com/wzpan/wukong-robot.git
 2. 生成 HTML
 
 ``` bash
-make rst
-make -B html
+make doc
 ```
